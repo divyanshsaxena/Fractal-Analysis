@@ -1,0 +1,2 @@
+# Fractal-Analysis
+Worked under Prof. Bernt Wahl, Entrepreneurship Department, UC Berkeley on a Java project.  - Using Graphics in Java, plotted the trajectory of Henon Map with trigonometric functions.  - Changed the degrees and scale of the equations to plot different shapes in 3 Dimensional space.  - Analysed the transition from stable to chaos region along with the unstable space that gave rise to spaces in Saturn rings.
