@@ -4,7 +4,7 @@ import java.awt.event.*;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
-final public class SimpleGui3 
+final public class Visualization 
 {
  JFrame frame;
  DrawPanel drawPanel;
